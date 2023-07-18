@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thp77&langs_count=8)
 
-[![Thp77's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Thp77/github-readme-stats)
+
 
 Je m'appelle Denis je suis développeur react depuis peu et ici, vous aurez la chance :wink: de trouver mes projets les plus farfelu !!!
 Here are some ideas to get you started:
