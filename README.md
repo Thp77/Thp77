@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thp77&langs_count=8&&show_icons=true&theme=onedark) ![Thp77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thp77&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thp77&langs_count=8&&show_icons=true&theme=onedark) [![Thp77 GitHub stats](https://github-readme-stats.vercel.app/api?username=Thp77)](https://github.com/Thp77/github-readme-stats)
 
